@@ -1,0 +1,11 @@
+{
+    "argv": [
+        "/usr/local/share/jupyter/launch/rapids-0.18.sh",
+        "-m",
+        "ipykernel_launcher",
+        "-f",
+        "{connection_file}"
+    ],
+    "display_name": "rapids-0.18",
+    "language": "python"
+}
